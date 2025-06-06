@@ -1,0 +1,75 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Visual Studio
+.vs/
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored if you use PackageReference
+packages/
+# NuGet v3's project.json files produces this folder
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+
+# Others
+*.log
+*.tlog
+*.cache
+*.pdb
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.vspscc
+*.vssscc
+*.docstates
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# TeamCity
+_TeamCity*
+
+# DotTrace
+*.dotTrace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local history for Visual Studio
+.localhistory/
+
+# Windows crash dumps
+*.mdmp
+
+# IIS Express
+. vs/ 
